@@ -1,4 +1,4 @@
-package projects;
+package week3CodingAssignment;
 import java.time.Year;
 import java.util.Arrays;
 
